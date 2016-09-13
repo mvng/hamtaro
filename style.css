@@ -1,0 +1,16 @@
+img {
+    max-height: 500px;
+}
+h1 {
+    text-align: center;
+    color: white !important;
+}
+h2 {
+    text-align: center;
+}
+.btn {
+    margin-top: 10px;
+}
+header {
+    background-color: orange !important;
+}
