@@ -1,16 +1,27 @@
 img {
-    max-height: 500px;
+  max-height: 500px;
 }
 h1 {
-    text-align: center;
-    color: white !important;
+  text-align: center;
+  color: white !important;
 }
 h2 {
-    text-align: center;
+  text-align: center;
 }
 .btn {
-    margin-top: 10px;
+  margin-top: 10px;
 }
 header {
-    background-color: orange !important;
+  background-color: #FCB973 !important;
 }
+body {
+  background-color: #FCD6B2 !important;
+  background: url("images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
